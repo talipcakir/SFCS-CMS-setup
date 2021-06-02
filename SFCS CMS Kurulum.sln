@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFCS CMS Kurulum", "SFCS CMS Kurulum.csproj", "{8E7D12A2-C653-4678-B421-36D5833F92CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7D12A2-C653-4678-B421-36D5833F92CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7D12A2-C653-4678-B421-36D5833F92CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7D12A2-C653-4678-B421-36D5833F92CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7D12A2-C653-4678-B421-36D5833F92CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83ECD7EB-9397-4614-BF95-3ECF1C9FEBB0}
+	EndGlobalSection
+EndGlobal
