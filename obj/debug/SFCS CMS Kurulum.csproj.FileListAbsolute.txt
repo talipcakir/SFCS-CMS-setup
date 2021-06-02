@@ -1,0 +1,21 @@
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\SFCS CMS Kurulum.exe.config
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\SFCS CMS Kurulum.exe
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\SFCS CMS Kurulum.pdb
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\Ionic.Zip.dll
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\System.Management.Automation.dll
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\System.Management.Automation.xml
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS_CMS_Kurulum.Kurulum_1.resources
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS_CMS_Kurulum.Kurulum_2.resources
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS_CMS_Kurulum.Properties.Resources.resources
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.csproj.GenerateResource.cache
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.csproj.CoreCompileInputs.cache
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.csproj.CopyComplete
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.exe
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.pdb
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.csproj.AssemblyReference.cache
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\SFCS CMS Kurulum.exe.manifest
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\bin\Debug\SFCS CMS Kurulum.application
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.TrustInfo.xml
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.exe.manifest
+C:\Users\Talip\source\repos\SFCS CMS Kurulum\obj\Debug\SFCS CMS Kurulum.application
